@@ -17,7 +17,7 @@ Ce projet est un site web statique pour une agence de voyage. Il utilise HTML et
 ## Comment l'utiliser
 
 1. Clonez le dépôt :
-    git clone https://github.com/celine-fernandes/Travel-Agency.git
+    git clone https://github.com/celine-fernandes/Travel-Agency..git
 
 2. Ouvrez `index.html` dans un navigateur :
 
